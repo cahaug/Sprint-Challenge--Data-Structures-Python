@@ -40,3 +40,4 @@ print (f"runtime: {end_time - start_time} seconds")
 
 # By implementing a binary search tree with the values of list 1, we are able to 
 # cut down on the number of comparisons to the minimum, leaving our improved function running at O(n*log(n))
+# cut time down from ~6.631941795349121 seconds to ~0.13924098014831543 seconds
